@@ -1,9 +1,11 @@
 # Food-company
 
 This is the restaurant webpage, They can see the menu, order the food from the bot and contact us.
-I have used HTML, CSS, AZURE LANGUAGE STUDIO, AZURE BOT SERVICE, STATIC WEBAPPS for this project.
+I have used HTML, CSS, AZURE LANGUAGE STUDIO, AZURE BOT SERVICE,STORAGE ACCOUNTS,  STATIC WEBAPPS for this project.
+I used the storage accounts mainly to store the source code.
 
-project link(demo link): 
+
+project link(demo link): https://icy-coast-0303ff610.3.azurestaticapps.net
 
 some of the steps taken while working in azure for this project
 
@@ -19,7 +21,17 @@ some of the steps taken while working in azure for this project
 4. Creating the Bot service
 ![image](https://github.com/vineelaanaparthi/Food-company/assets/107920358/6f119908-c281-42df-a5d9-d5f734ec42ad)
 
-5. Creating Static WeApp service
+5. Creating the storage accounts
+ ![image](https://github.com/vineelaanaparthi/Food-company/assets/107920358/353c26b2-7a32-4083-91ae-7cf9ed6e18e2)
+
+6. Adding source code to container
+![image](https://github.com/vineelaanaparthi/Food-company/assets/107920358/7b7b4603-bf14-4003-b0f6-528c2a85681b)
 
 
-6. Successfully Deployed the website.
+7. Creating Static WeApp service
+![image](https://github.com/vineelaanaparthi/Food-company/assets/107920358/98713de5-823c-49c6-aebe-257719444839)
+
+
+8. Successfully Deployed the website.
+![image](https://github.com/vineelaanaparthi/Food-company/assets/107920358/c6aa39b9-d5bd-4257-9da3-73220475aa7b)
+
